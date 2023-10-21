@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const EMPLOYEE_API_BASE_URL = "https://api.nu-quality.net/api/v1/employees";
+export const EMPLOYEE_API_BASE_URL = "https://api.nu-quality.net/api/v1/employees";
 
 class EmployeeService {
 
